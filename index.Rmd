@@ -26,7 +26,8 @@ We looked at several research tools
 
 ----
 
-... created the templates for the presentations
+... and created the templates  
+for the presentations
 
 ----
 
@@ -94,8 +95,7 @@ Who has questions ...?
 Any questions?
 
 
-
-# <small>Research projects</small>
+# <small>Proposal presentations</small>
 
 ----
 
@@ -108,42 +108,20 @@ Any questions?
 
 ----
 
-Add your research project to  
-the "Research projects" section  
-of the course on the OSF
+Prepare a short talk  
+(3 minutes max)
 
 ----
 
-Answer the eight preregistration <br>
-questions of <a href = "https://aspredicted.org/nfj4s.pdf">
-AsPredicted</a> and <br>
-make them available on the OSF
+Prepare slides for your talk  
+(in GitHub pages)
 
 ----
 
-Any questions?
-
-
-
-# <small>Proposal presentations</small>
-
-----
-
-Prepare a short talk (5 minutes max)
-
-----
-
-Prepare slides for your talk (in GitHub pages)
-
-----
-
-Connect your GitHub repository to your  
-research project in <a href = "https://osf.io/">OSF</a>
-
-----
-
-Slides should include introduction, methods,  
-proposed analyses and references
+Slides should include  
+introduction, methods,  
+proposed analyses and  
+references
 
 ----
 
@@ -151,28 +129,18 @@ Any questions?
 
 
 
-# <small>Proposal review</small>
+# <small>Proposal reviews</small>
 
 ----
 
-My suggestions...
+After each talk there will be  
+time for questions - use it
 
 ----
 
-Select four research projects in total
-
-----
-
-Work in mixed teams  
-(i.e. Crete and Thessaloniki)
-
-----
-
-Select two projects from each university
-
-----
-
-Any other suggestions?
+After the last talk the two  
+"best" projects from each  
+university are selected
 
 ----
 
@@ -182,6 +150,62 @@ Who should select the projects?
 
 How would you like to  
 select the projects?
+
+----
+
+Any other suggestions?
+
+----
+
+Any questions?
+
+
+
+# <small>After the reviews</small>
+
+----
+
+Apply the suggested  
+changes from the review
+
+----
+
+Add your research project to  
+the "Research projects" section  
+of the course in the OSF
+
+----
+
+Register your research project in  
+the OSF using the Preregistration  
+Template from AsPredicted.org 
+
+----
+
+Connect your GitHub repository to  
+your research project in the OSF
+
+----
+
+Any questions?
+
+
+
+# <small>Research projects</small>
+
+----
+
+You will participate in one of  
+the four final research projects  
+
+----
+
+You will work in mixed teams  
+(i.e. Crete and Thessaloniki)
+
+----
+
+Any questions?
 
 
 
@@ -196,12 +220,15 @@ like "depression" or "feeling blue"
 
 ## <small>Would people rather talk about <br>panic attacks or social anxiety?</small>
 
-- Compare tweets on #panic and #socialanxiety
+- Compare number of tweets on  
+\#panic and #socialanxiety
 
-## <small>Are social psychologists more <br>social than clinical psychologists</small>
+## <small>Are social psychologists more <br>social than clinical psychologists?</small>
 
 - Make a social network analysis  
 on authorship in journals
+
+
 
 # <small>Any questions left?</small>
 
@@ -228,7 +255,10 @@ on authorship in journals
 ----
 
 Prepare the presentations  
-for your research proposals
+for your research proposals  
+in GitHub Pages
+
+
 
 # <small>Don't panic</small>
 
